@@ -1,0 +1,16 @@
+ecommerce/
+├── api/
+│   ├── __init__.py
+│   ├── auth.py
+│   ├── cart.py
+│   ├── orders.py
+│   └── products.py
+├── database/
+│   ├── __init__.py
+│   └── models.py
+├── .vercel/
+│   └── project.json
+├── .gitignore
+├── Procfile
+├── requirements.txt
+└── app.py
